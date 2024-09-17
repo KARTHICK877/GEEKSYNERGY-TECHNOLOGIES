@@ -17,10 +17,4 @@ This project is a user management application that includes a simple frontend an
 - **Database**: MongoDB
 - **Others**: Axios, React Router, bcryptjs, jsonwebtoken, dotenv
 
-## Setup Instructions
 
-### Backend
-
-1. **Clone the Repository**
-   ```bash
-  [Here](https://github.com/KARTHICK877/GEEKSYNERGY-TECHNOLOGIES/tree/9b0aa19835f7ce78474a5c98c8d150e2811d688a)
